@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    inteiro senhaDigitada
-    const inteiro senhaAtual = 123
+    cadeia senhaDigitada
+    const cadeia senhaAtual = "123"
 
     escreva("Digite a senha: ")
     leia(senhaDigitada)
