@@ -10,7 +10,7 @@ programa {
     leia (repeticoes)
 
     para (inteiro i = 1; i <= repeticoes; i++){
-      escreva (i, " ", nome, "\n")
+      escreva (nome, "\n")
     }
   }
 }
