@@ -6,7 +6,7 @@ programa {
     leia(nome) 
 
     para (inteiro i = 1; i <= 10; i++){
-      escreva(i, " ", nome,"\n")
+      escreva(nome, "\n")
     }
   }
 }
