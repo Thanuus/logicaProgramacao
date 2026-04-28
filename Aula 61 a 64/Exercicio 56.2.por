@@ -6,7 +6,7 @@ programa {
     enquanto (numero>=0){
       escreva("Digite um numero: ")
       leia(numero)
-      se (numero>0){
+      se (numero>=0){
         soma = soma + numero
         div = div+1
       }
