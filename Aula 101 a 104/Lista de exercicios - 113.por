@@ -11,10 +11,6 @@ programa {
     numeros[3] = 15
     numeros[4] = 20
 
-    escreva(numeros[0], \n)
-    escreva(numeros[1], \n)
-    escreva(numeros[2], \n)
-    escreva(numeros[3], \n)
-    escreva(numeros[4], \n)
+    escreva(numeros)
   }
 }
