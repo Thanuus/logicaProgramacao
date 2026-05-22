@@ -8,7 +8,7 @@ programa {
   }
 
   funcao zerarNegativos(real &temperaturas[], inteiro tamanho){
-    para (inteiro i = 0; i < tamanho -1; i++){
+    para (inteiro i = 0; i < tamanho; i++){
       se (temperaturas[i] < 0) {
         temperaturas[i] = 0
       }
